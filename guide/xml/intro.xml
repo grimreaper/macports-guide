@@ -35,10 +35,8 @@
         </listitem>
     </itemizedlist>
 
-    <para>MacPorts is developed on OS X, though it is designed to be portable so it can work on other Unix-like systems,
-        especially those descended from the Berkeley Software Distribution (BSD). In practice, installing ports only
-        works on OS X. MacPorts base can be compiled on Linux (and possibly other POSIX-compatible systems) where it is
-        mainly used to set up mirrors and generate support files for installations on OS X.</para>
+    <para>MacPorts is developed on OS X, though can be installed
+      <link xlink:href="https://www.macports.org/install.php#other">on other platform</link>.</para>
 
     <para>The following notational conventions are used in the MacPorts Guide to distinguish between terminal
         input/output, file text, and other special text types.</para>
@@ -57,7 +55,7 @@
 
             <itemizedlist>
                 <listitem>
-                    <para>A hyperlink: <link xlink:href="http://en.wikipedia.org/wiki/Spontaneous_combustion">spontaneous
+                    <para>A hyperlink: <link xlink:href="https://en.wikipedia.org/wiki/Spontaneous_combustion">spontaneous
                             combustion</link>.</para>
                 </listitem>
                 <listitem>
